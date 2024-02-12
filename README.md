@@ -29,4 +29,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
-![](https://leetcard.jacoblin.cool/shunniorr?border=0&radius=20)
+
+![](https://leetcard.jacoblin.cool/shunniorr?animation=true)
