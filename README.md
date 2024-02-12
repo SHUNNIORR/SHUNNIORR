@@ -29,4 +29,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
-![LeetCode Stats](https://leetcode.card.workers.dev/SHUNNIORR?theme=default&font=baloo&extension=null)
+![](https://leetcard.jacoblin.cool/SHUNNIORR?border=0&radius=20)
