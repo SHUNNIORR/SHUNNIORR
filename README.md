@@ -8,8 +8,9 @@
   - 👨🏻‍🎓 I'm a System Engineer
   - 💻 Frontend Sr developer in React.js and Angular
   - 🔨 1 year of experience building Java/Spring based systems
-  - ⌚️ +3 years of work experience and +7 years of writing code
+  - ⏳ +3 years of work experience and +7 years of writing code
   - 🌱 I’m currently still learning backend development with Java and Python
+  - 🚀 Goal: Become a super Fullstack developer 
   - 🫀 Hobbies: Drawing, Music, VideoGames
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
