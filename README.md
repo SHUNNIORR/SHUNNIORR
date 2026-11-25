@@ -7,8 +7,8 @@
   - 👷🏻‍♂️ I’m currently working as a Fullstack Developer in [Pragma](https://www.pragma.co/es/), Colombia.
   - 👨🏻‍🎓 I'm a Systems/Software Engineer
   - 💻 Frontend Sr developer in React.js and Angular
-  - 🔨 1 year of experience building Java/Spring based systems
-  - ⏳ +3 years of work experience and +7 years of writing code
+  - 🔨 2 year of experience building Java/Spring based systems
+  - ⏳ +5 years of work experience and +7 years of writing code
   - 🌱 I’m currently still learning backend development with Java and Python
   - 🚀 Goal: Become a super Fullstack developer 
   - 🫀 Hobbies: Drawing, Music, VideoGames
